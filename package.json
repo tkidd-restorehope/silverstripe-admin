@@ -57,7 +57,7 @@
     "immutable": "^4.3.7",
     "isomorphic-fetch": "^3.0.0",
     "jquery": "^3.6.1",
-    "jquery-form": "^4.3.0",
+    "jquery-form": "git+https://github.com/tkidd-restorehope/jquery-form.git#master",
     "jquery-sizes": "^0.33.0",
     "lodash.debounce": "^4.0.8",
     "lodash.escaperegexp": "^4.1.2",
